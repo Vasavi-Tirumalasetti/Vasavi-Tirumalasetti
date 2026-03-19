@@ -4,7 +4,8 @@ Java Full-Stack Developer (Student) — Spring Boot • Hibernate • React • 
 🔭 Current project: Full Stack Web App (Spring Boot + React + MySQL)
 ✅ Building REST APIs & working with MVC architecture
 🌱 Learning: Microservices, Cloud Computing, System Design basics
-🌐 Portfolio/LinkedIn: https://www.linkedin.com/in/vasavi18/ • 📫 vasavitirumalasetti0@gmail.com
+🌐 Portfolio/LinkedIn: https://www.linkedin.com/in/vasavi18/ • 
+📫 vasavitirumalasetti0@gmail.com
 
 Tech:-
 
