@@ -1,16 +1,17 @@
-## Hi there 👋
+Hi, I'm Vasavi 👋
+Java Full-Stack Developer (Student) — Spring Boot • Hibernate • React • MySQL • REST APIs • Git
 
-<!--
-**Vasavi-Tirumalasetti/Vasavi-Tirumalasetti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 Current project: Full Stack Web App (Spring Boot + React + MySQL)
+✅ Building REST APIs & working with MVC architecture
+🌱 Learning: Microservices, Cloud Computing, System Design basics
+🌐 Portfolio/LinkedIn: https://www.linkedin.com/in/vasavi18/ • 📫 vasavitirumalasetti0@gmail.com
 
-Here are some ideas to get you started:
+Tech:-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Java, Spring Boot, Hibernate, REST API, React, JavaScript, HTML/CSS, MySQL, Git, GitHub
+
+Projects:-
+
+Full Stack App – Spring Boot + React + MySQL
+Student Management System – CRUD + REST APIs
+E-Commerce App – Backend (Spring Boot) + Frontend (React)
